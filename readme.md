@@ -5,4 +5,4 @@
 # Usage
 - execute command "python -u NPS_BTUI.py <.tsv database>"
 
-![Uploading image.png…]()
+![image](https://github.com/GogleSiteBank/NPS-Browser-TUI/assets/125816677/11b5cccf-006b-4e5f-aee7-3a3f27ffceac)
